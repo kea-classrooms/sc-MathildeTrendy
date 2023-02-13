@@ -1,0 +1,7 @@
+# git config --local --add include.path ../.gitconfig
+[alias]
+	co = checkout
+	root = rev-parse --show-toplevel
+	st = status
+	tree = log --graph --oneline --all
+
