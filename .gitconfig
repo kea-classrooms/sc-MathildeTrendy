@@ -5,3 +5,4 @@
 	st = status
 	tree = log --graph --oneline --all
     hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	ci = commit
